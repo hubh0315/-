@@ -8,3 +8,5 @@ Google Samples：https://github.com/googlesamples
 实用技巧：https://github.com/jiang111/awesome-android-tips
 
 rxjava操作符：https://blog.csdn.net/u011200604/article/details/72934661
+
+仿微信：https://github.com/GitLqr/LQRWeChat.git
