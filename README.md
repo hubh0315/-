@@ -10,3 +10,5 @@ Google Samples：https://github.com/googlesamples
 rxjava操作符：https://blog.csdn.net/u011200604/article/details/72934661
 
 仿微信：https://github.com/GitLqr/LQRWeChat.git
+
+深入浅出解析Android事件传递机制： https://www.cnblogs.com/Seanisme/articles/6180510.html
