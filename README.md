@@ -16,3 +16,4 @@ rxjava操作符：https://blog.csdn.net/u011200604/article/details/72934661
 轮播：https://github.com/youth5201314/banner
 
 导航栏：https://github.com/hackware1993/MagicIndicator
+       https://github.com/H07000223/FlycoTabLayout
